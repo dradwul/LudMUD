@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DTP_D7_MUD/1.0.0": {
+        "runtime": {
+          "DTP_D7_MUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTP_D7_MUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

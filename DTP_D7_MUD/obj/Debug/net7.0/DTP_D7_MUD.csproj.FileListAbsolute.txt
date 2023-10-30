@@ -1,0 +1,14 @@
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.AssemblyInfoInputs.cache
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.AssemblyInfo.cs
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.csproj.CoreCompileInputs.cache
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\bin\Debug\net7.0\DTP_D7_MUD.exe
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\bin\Debug\net7.0\DTP_D7_MUD.deps.json
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\bin\Debug\net7.0\DTP_D7_MUD.runtimeconfig.json
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\bin\Debug\net7.0\DTP_D7_MUD.dll
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\bin\Debug\net7.0\DTP_D7_MUD.pdb
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.dll
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\refint\DTP_D7_MUD.dll
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.pdb
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\DTP_D7_MUD.genruntimeconfig.cache
+C:\Users\mltan\source\repos\DTP_D7_MUD\DTP_D7_MUD\obj\Debug\net7.0\ref\DTP_D7_MUD.dll
