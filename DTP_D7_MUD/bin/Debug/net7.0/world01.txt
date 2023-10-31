@@ -1,0 +1,12 @@
+0;Startrum;Du står framför en port utan lås;1;-1;-1;-1
+1;Rum1;Det finns en låst dörr norrut, i ett hörn ligger en hög med bråte;2;-1;0;-1
+2;Rum2;Låst dörr norrut, men dörren mot öst ser ut att vara öppen..;5;3;1;-1
+3;Rum3;Du kom in genom den enda dörren i rummet, framför dig finns ett skrin med en nyckel;-1;-1;-1;2
+4;Rum4;Du kom in genom den enda dörren i rummet, på väggen står det "314-314";-1;5;-1;-1
+5;Rum5;Dörren norrut är olåst, men det finns dörrar åt alla håll att utforska;7;6;2;4
+6;Rum6;Rummet är tomt och kalt;-1;-1;-1;5
+7;Rum7;Norrut finns en stor port. Det verkar som att en kod behövs för att låsa upp..;10;-1;5;-1
+8;Rum8;Det verkar vara en återvändsgränd här, men du trampar på en nyckel. Den kanske är bra att ha;-1;9;-1;-1
+9;Rum9;Det finns en låst dörr till väster. Undrar om den stora nyckeln på väggen passar?;-1;10;-1;8
+10;Rum10;Norrut finns en låst dörr, men dörren som leder västerut verkar vara öppen;11;-1;7;9
+11;Rum11;FET SKATTKISTA JAO, GRATTIS DU ÄR RIK;-1;-1;10;-1
