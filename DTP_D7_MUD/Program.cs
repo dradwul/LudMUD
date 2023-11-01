@@ -75,7 +75,7 @@ namespace DTP_D7_MUD
                 case "e":
                     if (MudEngine.currentRoom.east != -1)
                     {
-                        MudEngine.currentRoom = MudEngine.map.FirstOrDefault(room => room.number == MudEngine.currentRoom.south);
+                        MudEngine.currentRoom = MudEngine.map.FirstOrDefault(room => room.number == MudEngine.currentRoom.east);
                     }
                     else
                     {
