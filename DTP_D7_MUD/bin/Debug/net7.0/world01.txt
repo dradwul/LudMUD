@@ -1,5 +1,5 @@
-0;Startrum;Du står framför en port utan lås;1;-1;-1;-1
-1;Rum1;Det finns en låst dörr norrut, i ett hörn ligger en hög med bråte;2;-1;0;-1
+0;Startrum;Du står framför en port, gå norrut för att fortsätta;1;-1;-1;-1
+1;Rum1;Det finns en låst dörr norrut, i ett hörn ligger en hög med bråte där du hittar en nyckel;2;-1;0;-1
 2;Rum2;Låst dörr norrut, men dörren mot öst ser ut att vara öppen..;5;3;1;-1
 3;Rum3;Du kom in genom den enda dörren i rummet, framför dig finns ett skrin med en nyckel;-1;-1;-1;2
 4;Rum4;Du kom in genom den enda dörren i rummet, på väggen står det "314-314";-1;5;-1;-1
